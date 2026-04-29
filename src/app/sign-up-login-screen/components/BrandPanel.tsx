@@ -33,7 +33,7 @@ export default function BrandPanel() {
         <div className="flex items-center gap-3">
           <AppLogo size={40} />
           <div>
-            <span className="font-bold text-xl tracking-tight text-white">FaceTrace</span>
+            <span className="font-bold text-xl tracking-tight text-white">FaceVault</span>
             <span className="text-violet-400 font-bold text-xl"> AI</span>
           </div>
         </div>
