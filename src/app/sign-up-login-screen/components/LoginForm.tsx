@@ -52,7 +52,7 @@ export default function LoginForm() {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-2xl font-bold text-white">Sign in to FaceTrace</h2>
+        <h2 className="text-2xl font-bold text-white">Sign in to FaceVault</h2>
         <p className="text-sm text-[hsl(var(--muted-foreground))] mt-1">Your face is waiting to be found.</p>
       </div>
 
