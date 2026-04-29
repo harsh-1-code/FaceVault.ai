@@ -9,7 +9,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'FaceTrace AI — Your Memories Find You',
+  title: 'FaceVault AI — Your Memories Find You',
   description: 'Privacy-first facial recognition platform that delivers only your event photos to you — no searching, no scrolling, no privacy leaks.',
   icons: {
     icon: [{ url: '/favicon.ico', type: 'image/x-icon' }],
