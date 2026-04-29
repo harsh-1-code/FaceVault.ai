@@ -81,7 +81,7 @@ export default function BrandPanel() {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-cyan-400">Find You</span>
           </h1>
           <p className="text-[hsl(var(--muted-foreground))] text-sm leading-relaxed max-w-sm mx-auto">
-            Your face is your key. FaceTrace AI scans thousands of event photos and delivers only yours — privately, instantly, automatically.
+            Your face is your key. FaceVault AI scans thousands of event photos and delivers only yours — privately, instantly, automatically.
           </p>
         </div>
 
